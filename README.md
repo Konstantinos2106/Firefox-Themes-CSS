@@ -1,5 +1,6 @@
 # Firefox-Themes-CSS
 Custom CSS files for Firefox Themes
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Firefox_Browser_Add-ons_logo.svg" alt="Trulli" width="auto" height="auto">
 
 You can find all Firefox themes here: [https://addons.mozilla.org/en-US/firefox/user/19760903/](https://addons.mozilla.org/en-US/firefox/user/19760903/)
 
