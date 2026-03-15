@@ -19,7 +19,7 @@ You can find all Firefox themes here: [https://addons.mozilla.org/en-US/firefox/
 5. Type about:support in the Firefox address bar and press Enter
 6. Under the "Application Basics" section, locate the "Profile Directory" or "Profile Folder" row
 7. Click the "Open Directory" or "Open Folder" button
-8. In the profile folder that just opened, paste the chrome folder
+8. In the profile folder that just opened, paste the chrome folder <br>
 	Please check if a chrome folder already exists from a previous customization:
 	a) If the folder exists but there is no userChrome.css file inside it, simply paste the new userChrome.css file into that chrome folder
 	b) If a userChrome.css file already exists, open it, check its current code, and carefully append/merge your new code into it
