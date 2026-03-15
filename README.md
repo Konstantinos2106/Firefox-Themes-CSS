@@ -3,13 +3,13 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Firefox_Browser_Add-ons_logo.svg" alt="Firefox Add-ons">
 </a><br><br>
 
-Custom CSS files for Firefox Themes
+<b>Custom CSS files for Firefox Themes</b>
 
-You can find all Firefox themes here: [https://addons.mozilla.org/en-US/firefox/user/19760903/](https://addons.mozilla.org/en-US/firefox/user/19760903/)
+<b>You can find all Firefox themes here: [https://addons.mozilla.org/en-US/firefox/user/19760903/](https://addons.mozilla.org/en-US/firefox/user/19760903/) </b>
 
-Προσαρμοσμένα αρχεία CSS για Θέματα Firefox
+<b>Προσαρμοσμένα αρχεία CSS για Θέματα Firefox </b>
 
-Μπορείτε να βρείτε ολα τα θέματα Firefox εδω: [https://addons.mozilla.org/el/firefox/user/19760903/](https://addons.mozilla.org/el/firefox/user/19760903/)
+<b>Μπορείτε να βρείτε ολα τα θέματα Firefox εδω: [https://addons.mozilla.org/el/firefox/user/19760903/](https://addons.mozilla.org/el/firefox/user/19760903/) </b>
 
 
 
