@@ -1,7 +1,7 @@
 # Firefox-Themes-CSS
 <a href="https://addons.mozilla.org/en-US/firefox/user/19760903/" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Firefox_Browser_Add-ons_logo.svg" alt="Firefox Add-ons">
-</a><br>
+</a><br><br>
 
 Custom CSS files for Firefox Themes
 
