@@ -1,5 +1,7 @@
 # Firefox-Themes-CSS
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Firefox_Browser_Add-ons_logo.svg" alt="Trulli" width="auto" height="auto"> <br><br>
+<a href="https://addons.mozilla.org/en-US/firefox/user/19760903/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Firefox_Browser_Add-ons_logo.svg" alt="Firefox Add-ons">
+</a><br>
 
 Custom CSS files for Firefox Themes
 
