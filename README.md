@@ -1,6 +1,8 @@
 # Firefox-Themes-CSS
 Custom CSS files for Firefox Themes
 
+By <a href="https://en.wikipedia.org/wiki/en:Mozilla" class="extiw" title="w:en:Mozilla"><span title="open source software developer of Firefox and others">Mozilla</span></a> - Own work using: <a rel="nofollow" class="external free" href="https://addons.mozilla.org/static-frontend/459ebe418a9783cd0b80bdd8b98e5faa.svg">https://addons.mozilla.org/static-frontend/459ebe418a9783cd0b80bdd8b98e5faa.svg</a>, <a href="https://www.mozilla.org/MPL/1.1/" title="Mozilla Public License Version 1.1">MPL 1.1</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=147845283">Link</a>
+
 You can find all Firefox themes here: [https://addons.mozilla.org/en-US/firefox/user/19760903/](https://addons.mozilla.org/en-US/firefox/user/19760903/)
 
 Προσαρμοσμένα αρχεία CSS για Θέματα Firefox
