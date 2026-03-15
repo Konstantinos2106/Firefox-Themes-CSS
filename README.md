@@ -10,10 +10,7 @@
 <b>Προσαρμοσμένα αρχεία CSS για Θέματα Firefox </b>
 
 <b>Μπορείτε να βρείτε ολα τα θέματα Firefox εδω: [https://addons.mozilla.org/el/firefox/user/19760903/](https://addons.mozilla.org/el/firefox/user/19760903/) </b>
-
-
-
-
+<br><br>
 == Customizing Firefox Menu Backgrounds (history, right-click, etc.) ==
 
 1. Type about:config in the Firefox address bar and press Enter
