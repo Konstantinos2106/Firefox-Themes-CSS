@@ -11,7 +11,7 @@
 
 <b>Μπορείτε να βρείτε ολα τα θέματα Firefox εδω: [https://addons.mozilla.org/el/firefox/user/19760903/](https://addons.mozilla.org/el/firefox/user/19760903/) </b>
 <br><br>
-== Customizing Firefox Menu Backgrounds (history, right-click, etc.) ==
+## Customizing Firefox Menu Backgrounds (history, right-click, etc.)
 
 1. Type about:config in the Firefox address bar and press Enter
 2. If a warning message appears, click on "Accept the Risk and Continue"
@@ -28,7 +28,7 @@
 11. Done!
 
 
-== Προσαρμογή φόντου μενού (ιστορικό, δεξί κλικ κλπ) σε κατάλληλο χρώμα στο Firefox ==
+## Προσαρμογή φόντου μενού (ιστορικό, δεξί κλικ κλπ) σε κατάλληλο χρώμα στο Firefox
 
 1. Πληκτρολογήστε στην γραμμή διεύθυνσης του Firefox about:config και πατήστε Enter
 2. Σε περίπτωση που εμφανιστεί προειδοποιητικό μήνυμα επιλέξτε "Αποδοχή Ρίσκου και Συνέχεια"
