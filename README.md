@@ -13,6 +13,10 @@
 <br><br>
 
 ---
+### The repository has been moved to Codeberg. You can find the .zip files in the [new repository](https://codeberg.org/Konstantinos2106/Firefox-Themes-CSS).
+
+### Το αποθετήριο μεταφέρθηκε στο Codeberg. Τα αρχεία .zip μπορείτε να τα βρείτε στο [νέο αποθετήριο](https://codeberg.org/Konstantinos2106/Firefox-Themes-CSS). 
+---
 
 ### 🎨 About the versions
 * **Classic**: The traditional design with standard square edges.
